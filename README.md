@@ -1,6 +1,6 @@
 # Helpful Links Library
 
-> Autor: **[Ricardo Kovalski](https://github.com/ricardokovalski)**
+> Autor: **[Muhammad Umer Hayat](https://github.com/MUHammadUmerHayat)**
 
 ## Sumário
 
